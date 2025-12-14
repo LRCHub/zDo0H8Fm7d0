@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Meant to Be",
+  "base_artist": "Bebe Rexha",
+  "createdAt": "2025-12-14T13:38:54.993051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Meant to Be",
+      "artist": "Bebe Rexha feat. Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/01_Meant_to_Be_Bebe_Rexha_feat._Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Meant to Be (feat. Florida Georgia Line)",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/02_Meant_to_Be_(feat._Florida_Georgia_Line)_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Meant to Be",
+      "artist": "Sammy Kershaw",
+      "has_synced": false,
+      "path": "select/03_Meant_to_Be_Sammy_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Meant To Be (Album Version)",
+      "artist": "Sammy Kershaw",
+      "has_synced": false,
+      "path": "select/04_Meant_To_Be_(Album_Version)_Sammy_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Meant to Be (Live from CMA Fest 2018)",
+      "artist": "Florida Georgia Line feat. Bebe Rexha",
+      "has_synced": true,
+      "path": "select/05_Meant_to_Be_(Live_from_CMA_Fest_2018)_Florida_Georgia_Line_feat._Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Meant To Be (Live From CMA Fest 2018)",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/06_Meant_To_Be_(Live_From_CMA_Fest_2018)_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Meant to Be (feat. Florida Georgia Line)",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/07_Meant_to_Be_(feat._Florida_Georgia_Line)_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Meant to Be",
+      "artist": "Late Night Alumni",
+      "has_synced": false,
+      "path": "select/08_Meant_to_Be_Late_Night_Alumni.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Was Not Meant To Be",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/09_It_Was_Not_Meant_To_Be_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Way Life's Meant to Be",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/10_The_Way_Life's_Meant_to_Be_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "16. The way life's meant to be",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/11_16._The_way_life's_meant_to_be_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It Is Not Meant To Be",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/12_It_Is_Not_Meant_To_Be_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Home - LFO Meant To Be",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/13_Home_-_LFO_Meant_To_Be_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Home (LFO Meant To Be)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/14_Home_(LFO_Meant_To_Be)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Meant to Be",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/15_Meant_to_Be_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Meant To Be",
+      "artist": "iLoveMakonnen",
+      "has_synced": false,
+      "path": "select/16_Meant_To_Be_iLoveMakonnen.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Meant to Be",
+      "artist": "Squirrel Nut Zippers",
+      "has_synced": true,
+      "path": "select/17_Meant_to_Be_Squirrel_Nut_Zippers.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Maybe We're Meant To Be Alone",
+      "artist": "Bad Suns",
+      "has_synced": true,
+      "path": "select/18_Maybe_We're_Meant_To_Be_Alone_Bad_Suns.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Meant to Be My Own",
+      "artist": "7seconds",
+      "has_synced": true,
+      "path": "select/19_Meant_to_Be_My_Own_7seconds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Meant to Be",
+      "artist": "Bebe Rexha & Florida Georgia Line",
+      "has_synced": false,
+      "path": "select/pl_01_Meant_to_Be_Bebe_Rexha_&_Florida_Georgia_Line.txt"
+    }
+  ]
+}
